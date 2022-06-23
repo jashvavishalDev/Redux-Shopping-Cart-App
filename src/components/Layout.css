@@ -10,3 +10,12 @@
   margin-top: 1rem;
   font-size: 20px;
 }
+.log-out{
+  padding: 10px;
+  border:  none;
+  background: brown;
+
+}
+.log-out:hover{
+  background: yellowgreen;
+}

@@ -9,7 +9,7 @@ const Auth = () => {
   const handleSubmit =(e)=>{
     e.preventDefault();
     //dispatch
-    dispatch( authActions.login())
+    dispatch( authActions.login()) // 2- Actions
   }
   return (
     <div className="container">

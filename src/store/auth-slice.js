@@ -9,6 +9,6 @@ const authSlice = createSlice({
     }
 });
 
-export const authActions= authSlice.actions;
+export const authActions= authSlice.actions; // 1 - Actions
 
 export default authSlice;
